@@ -63,7 +63,7 @@
 		<library name="shared"        preload="false" />
 	</section>
 	
-	<haxelib name="hxCodec" version="hxcodecmariomadnessv2" />
+	<git name="hxCodec" version="hxcodecmariomadnessv2" />
 
 	
 	<assets path='example_mods' rename='mods' embed='true' if="MODS_ALLOWED"/>
